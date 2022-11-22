@@ -27,12 +27,12 @@
 - MS-Excel
 - Tableau
 
-- Basic EDA, Descriptive analysis in MS Excel:
+## Basic EDA, Descriptive analysis in MS Excel:
 - How many countries are there
 - How many customers are there just in UK
 - What's the total average unit price
 
-
+## Columns, we have:
 - InvoiceNo	
 - StockCode	
 - Description	
@@ -42,12 +42,10 @@
 - CustomerID	
 - Country	
 
-
+## Derived
 - RECENCY	
 - FREQUENCY	
 - MONETARY
-
-
 - RFM segmentation for customers
 
 
