@@ -26,6 +26,7 @@
 ## Tools and technologies used:
 - MS-Excel
 - Tableau
+- KNIME Platform
 
 ## Basic EDA, Descriptive analysis in MS Excel:
 - How many countries are there
